@@ -1,2 +1,1 @@
-# KELASROBOTIO
-Library untuk mempermudah input output
+# Arduino-Library-Template
